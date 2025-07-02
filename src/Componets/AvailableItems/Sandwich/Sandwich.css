@@ -1,0 +1,11 @@
+.Sandwichhh:hover{
+    transform: scale(1.09);
+    transition: all 0.3s;
+}
+
+.Sand-bkd{
+    background-color: antiquewhite;
+}
+.sand-img-s{
+    height: 200px;
+}

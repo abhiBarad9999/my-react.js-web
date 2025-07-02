@@ -1,0 +1,11 @@
+.cakke:hover{
+    transform: scale(1.09);
+    transition: all 0.3s;
+}
+.cak-bkd{
+    background: palegoldenrod;
+}
+
+.card-img{
+    height: 200px;
+}

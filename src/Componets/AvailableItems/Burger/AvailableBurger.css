@@ -1,0 +1,63 @@
+.burger-veg {
+    background-color: orange;
+}
+.burger-heading{
+    color: paleturquoise;
+    font-style: italic;
+    background: chocolate;
+    padding: 35px 75px;
+    text-decoration: overline;
+}
+
+.burger-bb {
+    background-color: blanchedalmond;
+    color: chocolate;
+}
+
+.online-buy {
+    background-color: chocolate;
+}
+
+.burger-s-font {
+    font-family: serif;
+    font-style: italic;
+}
+
+.burger-body-back {
+    background-color: chocolate;
+    color: mintcream;
+}
+
+.burger-veg-back {
+    background-color: burlywood;
+}
+
+.price-burger {
+    color: darkgray;
+    font-weight: bold;
+    
+}
+
+.buy-now-bur{
+    background-color: burlywood;
+    color: red;
+    border-radius: 15px;
+}
+
+.burger-backg {
+    background-color: gainsboro;
+}
+.heading-color-b{
+    color:teal;
+    font-style: italic;
+}
+.adjust-burger{
+    padding: 20px 40px;
+    text-align: center;
+}
+
+
+.smail-style-f-b {
+    font-weight: 100;
+    background-color: floralwhite;
+}

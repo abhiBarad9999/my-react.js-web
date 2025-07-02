@@ -1,0 +1,44 @@
+
+.milk-heading {
+    color: aliceblue;
+    font-weight: 700;
+}
+.card-backdg {
+    background-color: darkgray;
+}
+.milkshake-bkd {
+    background-color: darkslategray;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.milk-heading {
+    color: aliceblue;
+    font-weight: 700;
+}
+.milk-head{
+    font-family: cursive;
+    color: antiquewhite;
+    font-weight: 500;
+}
+
+.milksss {
+    margin-top: 70px;
+    background-color: darkgray;
+}
+.price-milk {
+    color: red;
+    text-decoration: none;
+    font-weight: 600;
+}
+.buy-now-milkshake{
+    background-color: burlywood;
+    color: red;
+        font-weight: 700;
+    border-radius: 15px;
+}
+.heading-color-milkshake {
+    color: darkslategrey;
+    font-weight: 700;
+    font-style: inherit;
+}

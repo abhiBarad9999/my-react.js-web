@@ -1,0 +1,16 @@
+.email-form{
+    padding: 20px;
+}
+.t-btnn{
+    padding: 8px 22px;
+    background: red;
+    font-size: larger;
+    color: aliceblue;
+    font-weight: 700;
+    border-color: white;
+    border: 2px, solid, floralwhite;
+}
+.table-bkd{
+    background: lavender;
+    border-radius: 15px;
+}

@@ -1,0 +1,74 @@
+
+
+
+
+.first-bkd{
+ 
+    background: lightblue;
+    /* padding:35px 75px; */
+;
+}
+.hea-heading{
+    font-size: 64px;
+    font-weight: 400;
+    font-family: 'Playwrite DK Loopet';
+    line-height: inherit;
+}
+.h-font{
+    color: green;
+}
+.Book-t{
+    color: whitesmoke;
+    background: #ce1212;
+    font-weight: 400;
+    font-size: 15px;
+
+    display: inline-block;
+        padding: 10px 28px 12px 28px;
+    border-radius: 50px;
+    border: none;
+    
+    box-shadow: 0 8px 28px rgba(0, 0, 0, 0.1);
+}
+.animated{
+        /* overflow-clip-margin: content-box;
+        overflow: clip; */
+ animation: upDown 3s ease-in-out infinite;
+ 
+}
+ @keyframes upDown {
+      0%   { transform: translateY(0); }
+      50%  { transform: translateY(-30px); }
+      100% { transform: translateY(0); }
+}
+
+
+
+.dis-adjust-head{
+  padding: 30px 75px;
+}
+
+
+
+.menu-sty{
+   /* height: 40vmin;  */
+  pointer-events: none;
+         /* overflow-clip-margin: content-box; 
+        overflow: clip;  */
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .menu-sty {
+    animation: abhi infinite 18s ;
+  }
+}
+
+@keyframes abhi {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(390deg);
+  }
+} 

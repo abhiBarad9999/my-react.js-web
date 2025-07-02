@@ -1,0 +1,36 @@
+
+.heading-color {
+    color: cadetblue;
+    font-weight: 700;
+}
+.smail-style-f {
+    font-weight: 100;
+}
+.available-pizza {
+    color: firebrick;
+    font-weight: bold;
+}.card-backd {
+    background-color: wheat;
+}
+
+
+.veg-pizza {
+/* background: url("https://png.pngtree.com/thumb_back/fh260/back_our/20190619/ourmid/pngtree-pizza-cartoon-yellow-poster-banner-background-image_133432.jpg"); */
+    /* background-repeat:repeat; */
+    background-color: lavender;
+}
+
+.price {
+    color: maroon;
+    text-decoration: none;
+    font-weight: 600;
+}
+.buy-now-pizza{
+    background-color: burlywood;
+    color: red;
+    font-weight: 700;
+    border-radius: 15px;
+}
+.pizza-backg {
+    background-color: antiquewhite;
+}

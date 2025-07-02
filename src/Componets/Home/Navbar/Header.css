@@ -1,0 +1,95 @@
+/* ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    font-size: larger;
+    font-weight: 900;
+    margin-top: 0px;
+    padding-top: 15px;
+    color: antiquewhite;
+  
+}
+.btn{
+    height: 33px;
+    width: 143px;
+    font-size: large;
+    background: palegoldenrod;
+    border-style: none;
+    font-weight: 900;
+    color: cornflowerblue;
+}
+.nav-bar{
+    background-color: cadetblue;
+    height: 65px;
+} */
+
+/* .navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 19px 75px;
+
+}
+.link-panel {
+    font-weight: 160;
+    font-size: 18px;
+}
+.link {
+    text-decoration: none;
+    margin-right: 20px;
+    color: #929ECC;
+
+}
+.secound {
+    color: #37447E;
+}
+.buy-button {
+    background-color: #111B47;
+    color: white;
+    padding: 13px 40px;
+    border-radius: 8px;
+    border: none;
+
+} */
+
+.nav-link{
+    position: relative;
+    z-index: 4;
+}
+.nav-link::before{
+    position: absolute;
+    content: '';
+    background-color: chocolate;
+    width: 0px;
+    height: 5px;
+    bottom: 0px;
+    border-radius: 10px;
+    left: 0px;
+    transition: all 0.9s;
+}
+.nav-link:hover::before{
+    width: 100%;
+    z-index: -1;
+}
+
+
+.droop-update{
+    overflow: auto;
+    height: 200px;
+    text-align: center;
+}
+
+.nav-logo {
+    width: 70px;
+    background: transparent;
+
+}
+
+.nev-hed {
+    color: rgba(243, 151, 5, 0.952);
+    text-shadow: 1px 1px 3px #1501017d;
+    font-family: "Playwrite DK Loopet", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+
+}

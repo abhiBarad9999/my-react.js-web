@@ -1,0 +1,11 @@
+.thaali:hover{
+    transform: scale(1.09);
+    transition: all 0.3s;
+}
+.thaali-bkd{
+    background-color: aliceblue;
+;
+}
+.thali-img-s{
+    height: 200px;
+}

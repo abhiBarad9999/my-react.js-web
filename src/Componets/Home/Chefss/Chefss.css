@@ -1,0 +1,34 @@
+.chef:hover{
+    transform: scale(1.09);
+    transition: all 0.3s;
+    
+}
+.card-textt{
+    font-family: 'ui-monospace';
+    color: darkslateblue;
+    background-color: aliceblue;
+}
+.pro-head{
+    color: darkcyan;
+    font-family: 'Playwrite DK Loopet';
+}
+
+
+.table-li{
+    position: relative;
+    z-index: 4;
+}
+.table-li::before{
+    position: absolute;
+    content: '';
+    background-color: skyblue;
+    width: 0px;
+    height: 100%;
+    bottom: 1px;
+    left: 0px;
+    transition: all 0.9s;
+}
+.table-li:hover::before{
+    width: 100%;
+    z-index: -1;
+}

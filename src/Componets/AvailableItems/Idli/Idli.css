@@ -1,0 +1,10 @@
+.idliii:hover{
+        transform: scale(1.09);
+    transition: all 0.3s;
+}
+.idli-bkd{
+    background-color: turquoise;
+}
+.idli-img-s{
+    height: 200px;
+}

@@ -1,0 +1,28 @@
+.endbar{
+    background-color: rgb(205, 197, 197);
+}
+.footer-link{
+    text-decoration: none;
+}
+footer{
+    background-color: #034355;
+
+}
+/* button{
+    padding: 14px 24px;
+    background-color: red;
+    color: white;
+} */
+
+.btttt{
+    padding: 14px 24px;
+    background-color: red;
+    color: white;
+}
+.ajdust-abhi{
+    color: rgba(143, 94, 14, 0.952);
+    text-shadow: 1px 1px 3px #1501017d;
+    font-family: "Playwrite DK Loopet", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+}

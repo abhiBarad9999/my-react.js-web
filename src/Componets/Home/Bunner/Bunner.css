@@ -1,0 +1,41 @@
+.carousel{
+    margin-top: 40px;
+} 
+.items {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: antiquewhite;
+    height: 500px;
+}
+
+
+.b_now {
+    border: dotted;
+    height: 45px;
+    background-color: chocolate;
+    color: white;
+    font-weight: 800;
+    font-size: medium;
+    text-decoration: none;
+    margin-top: 30px;
+}
+
+.heading-one {
+    font-weight: 800;
+    color: grey;
+    margin-bottom: 80px;
+    text-align: center;
+}
+
+.font-s {
+    font-size: larger;
+    color: darkgoldenrod;
+    font-weight: 400;
+    font-family: 'Playwrite DK Loopet';
+}
+
+.one{
+    height: 500px;
+}

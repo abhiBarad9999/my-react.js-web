@@ -1,0 +1,21 @@
+.main-adjust-fs{
+    font-size: inherit;
+    line-height: 1.5;
+    margin: 0px;
+    text-align: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: rgb(105, 105, 105);
+    max-width: 56%;
+    padding: 0px 0px 0.4rem;
+}
+
+.rol-img-s{
+    height: 200px;
+}
+
+.rolls-s:hover{
+    transform: scale(1.09);
+    transition: all 0.3s;
+}

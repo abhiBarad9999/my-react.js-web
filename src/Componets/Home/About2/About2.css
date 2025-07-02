@@ -1,0 +1,10 @@
+.book-a-table{
+    border: solid,5px,rgb(65, 65, 65);
+    padding: 10px;
+}
+.about-fs{
+    color: red;
+}
+.about-fw{
+    font-family: serif;
+}
